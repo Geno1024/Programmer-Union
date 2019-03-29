@@ -6,5 +6,4 @@ You can give some advice to perfect the manifesto or provide translations in dif
 
 * [简体中文]（ProgrammerManifesto_cn.md）
 # Reference
---
 [996ICU](https://github.com/996icu/996.ICU)
